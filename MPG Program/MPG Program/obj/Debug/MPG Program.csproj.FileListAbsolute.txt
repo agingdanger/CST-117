@@ -1,0 +1,10 @@
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\bin\Debug\MPG Program.exe.config
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\bin\Debug\MPG Program.exe
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\bin\Debug\MPG Program.pdb
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG Program.csprojAssemblyReference.cache
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG_Program.Form1.resources
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG_Program.Properties.Resources.resources
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG Program.csproj.GenerateResource.cache
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG Program.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG Program.exe
+C:\Users\bill\Desktop\C# Projects\MPG Program\MPG Program\obj\Debug\MPG Program.pdb
