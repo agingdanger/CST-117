@@ -1,0 +1,10 @@
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\bin\Debug\Programming Exercise Project 2.exe.config
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\bin\Debug\Programming Exercise Project 2.exe
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\bin\Debug\Programming Exercise Project 2.pdb
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming Exercise Project 2.csprojAssemblyReference.cache
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming_Exercise_Project_2.Form1.resources
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming_Exercise_Project_2.Properties.Resources.resources
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming Exercise Project 2.csproj.GenerateResource.cache
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming Exercise Project 2.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming Exercise Project 2.exe
+C:\Users\bill\Desktop\C# Projects\Programming Exercise Project 2\Programming Exercise Project 2\obj\Debug\Programming Exercise Project 2.pdb
